@@ -1,7 +1,3 @@
-# Start From Zero Test Guide
-
-This package is prepared for supervisor handover and fresh testing of the Insurance Analytics Platform.
-
 ## Purpose
 
 Use this package to test the project from the beginning without relying on previously generated model files or output files.
