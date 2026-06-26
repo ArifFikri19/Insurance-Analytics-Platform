@@ -1,0 +1,19 @@
+Accident Date,Claim Paid,Policyholder No,CustAge,Customer Tenure Months,Annual Premium,Deductible,Loss Type,Damage Level,Bodily Injury Paid,Property Damage Paid,Auto Damage Paid,Region,Policy Type,Sales Channel,Claim Status
+2021-07-01,22000,B3000,31,22,2300,400,Theft,Total Loss,3080,5280,13640,Central,Comprehensive,Agent,Closed
+2021-08-01,28150,B3001,34,25,2660,600,Weather,Trivial Damage,4504,7741,15905,North,Third Party,Online,Approved
+2021-09-01,34300,B3002,37,28,3020,900,Fire,Minor Damage,6174,10633,17493,South,Commercial,Branch,Under Review
+2021-10-01,40450,B3003,40,31,3380,1200,Vandalism,Major Damage,8090,9708,22652,East,Comprehensive,Agent,Closed
+2021-11-01,25800,B3004,43,34,3740,400,Collision,Total Loss,3612,7095,15093,Central,Third Party,Online,Approved
+2021-12-01,31950,B3005,46,37,4100,600,Theft,Trivial Damage,5112,9904,16934,North,Commercial,Branch,Under Review
+2022-01-01,38100,B3006,49,40,4460,900,Weather,Minor Damage,6858,9144,22098,South,Comprehensive,Agent,Closed
+2022-02-01,44250,B3007,52,43,2300,1200,Fire,Major Damage,8850,12168,23232,East,Third Party,Online,Approved
+2022-03-01,29600,B3008,55,46,2660,400,Vandalism,Total Loss,4144,9176,16280,Central,Commercial,Branch,Under Review
+2022-04-01,35750,B3009,58,49,3020,600,Collision,Trivial Damage,5720,8580,21450,North,Comprehensive,Agent,Closed
+2022-05-01,41900,B3010,61,52,3380,900,Theft,Minor Damage,7542,11522,22836,South,Third Party,Online,Approved
+2022-06-01,48050,B3011,64,55,3740,1200,Weather,Major Damage,9610,14895,23545,East,Commercial,Branch,Under Review
+2022-07-01,33400,B3012,31,58,4100,400,Fire,Total Loss,4676,8016,20708,Central,Comprehensive,Agent,Closed
+2022-08-01,39550,B3013,34,61,4460,600,Vandalism,Trivial Damage,6328,10876,22346,North,Third Party,Online,Approved
+2022-09-01,45700,B3014,37,64,2300,900,Collision,Minor Damage,8226,14167,23307,South,Commercial,Branch,Under Review
+2022-10-01,51850,B3015,40,67,2660,1200,Theft,Major Damage,10370,12444,29036,East,Comprehensive,Agent,Closed
+2022-11-01,37200,B3016,43,70,3020,400,Weather,Total Loss,5208,10230,21762,Central,Third Party,Online,Approved
+2022-12-01,43350,B3017,46,73,3380,600,Fire,Trivial Damage,6936,13438,22976,North,Commercial,Branch,Under Review

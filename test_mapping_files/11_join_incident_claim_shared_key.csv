@@ -1,0 +1,25 @@
+Claim ID,Capital Gains,Capital Loss,Incident Date,Incident Type,Collision Type,Incident Severity,Authorities Contacted,Incident State,Incident City,Incident Location,Incident Hour Of The Day,Number Of Vehicles Involved,Property Damage,Bodily Injuries,Witnesses,Police Report Available,Total Claim Amount,Injury Claim,Property Claim,Vehicle Claim,Auto Make,Auto Model,Auto Year,Fraud Reported
+JOIN0001,0,0,2020-01-12,Collision,Rear Collision,Minor Damage,Police,OH,Columbus,Highway 70,8,2,YES,1,2,YES,18500,3200,4300,11000,Toyota,Camry,2017,N
+JOIN0002,4500,0,2020-02-14,Theft,Not Applicable,Total Loss,Police,IL,Chicago,North Avenue,23,1,NO,0,1,YES,24500,0,6500,18000,Honda,Civic,2018,N
+JOIN0003,0,1200,2020-03-18,Weather,Not Applicable,Minor Damage,Fire,IN,Indianapolis,Market Street,15,1,YES,0,0,NO,31200,0,9200,22000,Ford,Focus,2016,N
+JOIN0004,0,0,2020-04-21,Fire,Side Collision,Major Damage,Fire,OH,Cleveland,Lake Road,3,2,YES,2,3,YES,39200,8200,11000,20000,Nissan,Altima,2019,Y
+JOIN0005,8000,0,2020-05-09,Vandalism,Not Applicable,Trivial Damage,None,IL,Springfield,Oak Street,19,1,NO,0,1,NO,26800,0,4800,22000,Hyundai,Elantra,2018,N
+JOIN0006,0,2500,2020-06-11,Collision,Front Collision,Minor Damage,Police,IN,Fort Wayne,Main Street,10,2,YES,1,2,YES,33600,5600,7000,21000,Toyota,Corolla,2020,N
+JOIN0007,0,0,2020-07-16,Theft,Not Applicable,Total Loss,Police,OH,Dayton,Warehouse Lane,1,1,NO,0,1,YES,42100,0,7100,35000,Honda,Accord,2017,Y
+JOIN0008,3000,0,2020-08-20,Weather,Not Applicable,Minor Damage,Fire,IL,Peoria,River Road,14,1,YES,0,0,NO,37400,0,12400,25000,Ford,Escape,2018,N
+JOIN0009,0,0,2020-09-13,Collision,Rear Collision,Major Damage,Ambulance,IN,Evansville,County Road 12,17,3,YES,2,4,YES,46600,9600,12000,25000,Nissan,Rogue,2019,Y
+JOIN0010,6500,0,2020-10-22,Fire,Side Collision,Major Damage,Fire,OH,Toledo,Industrial Park,4,2,YES,1,2,YES,51200,7200,14000,30000,Hyundai,Sonata,2020,N
+JOIN0011,0,1800,2020-11-19,Vandalism,Not Applicable,Trivial Damage,None,IL,Aurora,Pine Street,21,1,NO,0,1,NO,29400,0,6400,23000,Toyota,RAV4,2017,N
+JOIN0012,0,0,2020-12-08,Collision,Front Collision,Minor Damage,Police,IN,South Bend,State Route 2,9,2,YES,1,2,YES,38800,6800,9000,23000,Honda,CR-V,2018,N
+JOIN0013,0,0,2021-01-10,Theft,Not Applicable,Total Loss,Police,OH,Columbus,Downtown Garage,2,1,NO,0,2,YES,54800,0,8800,46000,Ford,Fusion,2019,Y
+JOIN0014,5200,0,2021-02-17,Weather,Not Applicable,Minor Damage,Fire,IL,Chicago,Lakeshore Drive,16,1,YES,0,0,NO,43700,0,13700,30000,Nissan,Sentra,2020,N
+JOIN0015,0,2100,2021-03-23,Collision,Rear Collision,Major Damage,Ambulance,IN,Indianapolis,Meridian Street,18,3,YES,2,3,YES,60200,12200,15000,33000,Hyundai,Tucson,2018,Y
+JOIN0016,0,0,2021-04-15,Fire,Side Collision,Major Damage,Fire,OH,Cleveland,Factory Road,5,2,YES,1,2,YES,68100,9100,19000,40000,Toyota,Highlander,2019,N
+JOIN0017,7600,0,2021-05-26,Vandalism,Not Applicable,Trivial Damage,None,IL,Springfield,Elm Street,22,1,NO,0,1,NO,35600,0,7600,28000,Honda,Pilot,2020,N
+JOIN0018,0,0,2021-06-07,Collision,Front Collision,Minor Damage,Police,IN,Fort Wayne,Broadway,11,2,YES,1,2,YES,49200,8200,11000,30000,Ford,Explorer,2017,N
+JOIN0019,0,0,2021-07-29,Theft,Not Applicable,Total Loss,Police,OH,Dayton,Airport Road,0,1,NO,0,1,YES,73500,0,10500,63000,Nissan,Maxima,2018,Y
+JOIN0020,4300,0,2021-08-18,Weather,Not Applicable,Minor Damage,Fire,IL,Peoria,Hill Street,13,1,YES,0,0,NO,52400,0,16400,36000,Hyundai,Santa Fe,2019,N
+JOIN0021,0,3200,2021-09-24,Collision,Rear Collision,Major Damage,Ambulance,IN,Evansville,Bridge Road,20,3,YES,2,4,YES,81200,15200,21000,45000,Toyota,Tacoma,2020,Y
+JOIN0022,0,0,2021-10-12,Fire,Side Collision,Major Damage,Fire,OH,Toledo,Plant Road,6,2,YES,1,2,YES,86600,11600,25000,50000,Honda,Odyssey,2018,N
+JOIN0023,6900,0,2021-11-05,Vandalism,Not Applicable,Trivial Damage,None,IL,Aurora,Cedar Street,23,1,NO,0,1,NO,41800,0,8800,33000,Ford,Edge,2019,N
+JOIN0024,0,0,2021-12-27,Collision,Front Collision,Minor Damage,Police,IN,South Bend,Lincoln Way,12,2,YES,1,2,YES,61300,10300,14000,37000,Nissan,Pathfinder,2020,N
