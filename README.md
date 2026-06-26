@@ -169,15 +169,6 @@ outputs/predictions_80_20.csv
 
 If a page shows `Data Not Available`, run the complete pipeline from the Upload Data page.
 
-## Notes For Supervisor Review
-
-- The project is designed as a prototype analytics platform for insurance claim forecasting.
-- The prediction task is regression-based.
-- The risk level is generated from predicted claim amount thresholds.
-- XGBoost is recommended as the main model because it is suitable for structured tabular insurance data.
-- Naive Baseline is included only as a benchmark to compare machine learning model performance.
-- The system uses chronological train/test splitting to reduce future data leakage.
-
 ## Current Limitations
 
 - Prediction quality depends heavily on uploaded data quality.
