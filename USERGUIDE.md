@@ -17,7 +17,7 @@ The supervisor should be able to:
 1. Open this folder in a terminal.
 
 ```bash
-cd "Insurance_Analytics_Start_From_Zero"
+cd "Insurance_Analytics"
 ```
 
 2. Install the required Python packages.
