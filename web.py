@@ -1,6 +1,6 @@
 # ---------------------------------------------------------
 # Insurance Quarterly Claim Prediction Project
-# Step 9: Streamlit Web Dashboard - Modern UI Edition
+# Step 9: Streamlit Web Dashboard
 # Currency: Malaysian Ringgit (RM)
 # Features: Year Filter + Compare Years Side-by-Side
 # ---------------------------------------------------------
